@@ -1,3 +1,3 @@
 # Minecraft-Server
 
-Modpack URL: http://api.technicpack.net/modpack/m-m-m-m-my-corona
+Modpack URL: http://api.technicpack.net/modpack/m-m-m-my-corona
